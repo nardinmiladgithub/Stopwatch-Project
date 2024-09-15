@@ -26,4 +26,5 @@ This project involves creating a versatile stopwatch that operates in two distin
 
 # Operation Description: 
 • Increment Mode: By default, the stopwatch starts in increment mode, where the time counts up continuously from zero. The time is displayed across six seven segment displays, showing hours, minutes, and seconds. The red LED on PD4 is turned on to indicate increment mode. 
+
 • Countdown Mode: When the mode toggle button is pressed, the stopwatch switches to countdown mode. In this mode, the user can set the desired countdown time using the hour, minute, and second adjustment buttons. The countdown begins once the start/resume button is pressed. A yellow LED on PD5 is turned on to indicate countdown mode. An alarm is triggered when the countdown reaches zero.
